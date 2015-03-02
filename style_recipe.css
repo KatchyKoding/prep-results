@@ -1,0 +1,51 @@
+p{
+	color: red;
+}
+
+div {
+
+	float: center;
+}
+div h1 { 
+color:orange;
+text-align: center;
+font-style: bold;
+font-family: serif;
+}
+
+#img_recipe {
+
+text-align: center;	
+height:300px;
+width: 600px;
+
+}
+
+ #img{
+	display: block;
+	height: 300px;
+	width: 600px;
+	align: center
+}
+
+#ingredients{
+	font-style: italic;
+	font-family: serif;
+	display: inline-block;
+	height: 800px;
+	width: 200px;
+	text-align: left;
+}
+
+#directions{
+	display: inline-block;
+	height: 800px;
+	width: 400px;
+	text-align: left;
+	font-style: italic, monospace;
+}
+
+body {
+	background-color: #fce17e;
+
+}
